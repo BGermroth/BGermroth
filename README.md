@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BGermroth
-- 👀 I’m interested in Machine learning, cybersecurity and improving upon exisiting coding languages
+- 👀 I’m interested in Machine learning, obtaining new knowledge on up and coming comp sci prospects and cybersecurity 
 - 🌱 I’m currently learning Computer Science at Howard Community College and UMBC
 - 💞️ I’m looking to collaborate on Any projects related to game and software development
 - 📫 How to reach me: my business gmail: ipreferthisforbusiness@gmail.com
